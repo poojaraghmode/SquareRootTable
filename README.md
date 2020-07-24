@@ -1,1 +1,3 @@
 # SquareRootTable
+
+Square Root Table using Java just for fun...
